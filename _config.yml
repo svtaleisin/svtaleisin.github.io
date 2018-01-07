@@ -276,7 +276,7 @@ prose:
       - name: "layout"
         field:
           element: "hidden"
-          value: "blog"
+          value: "single"
       - name: "tags"
         field:
           element: "multiselect"
