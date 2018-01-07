@@ -262,15 +262,15 @@ defaults:
       
 # Prose configs
 prose:
-  rooturl: '_posts'
-  siteurl: 'https://svtaleisin.github.io/'
+  #rooturl: '_posts'
+  siteurl: 'https://svtaleisin.github.io'
   #relativeLinks: 'http://prose.github.io/starter/links.jsonp'
   media: 'media'
-  ignore:
-    - index.md
-    - _config.yml
-    - /_layouts
-    - /_includes
+  #ignore:
+  #  - index.md
+  #  - _config.yml
+  #  - /_layouts
+  #  - /_includes
   metadata:
     _posts:
       - name: "layout"
@@ -296,4 +296,4 @@ prose:
         field:
           element: "text"
           label: "Permalink"
-          value: ""  
+          value: ""
