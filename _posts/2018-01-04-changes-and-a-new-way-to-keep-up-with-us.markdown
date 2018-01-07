@@ -1,10 +1,6 @@
 ---
-layout: blog
 title: Changes and a New Way to Keep Up With Us
-modified: null
-categories: null
 published: true
-date: {}
 ---
 
 I'm experiencing Deja  Vu, not that long  ago I broke the email  system. Today I

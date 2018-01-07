@@ -1,6 +1,7 @@
 ---
 title: "Sailing Taleisin for the First Time"
 modified: 2015-10-24
+tags: [learning]
 image: 
   feature: hatch.jpg
 date: 2015-10-22T22:15:33+13:00
