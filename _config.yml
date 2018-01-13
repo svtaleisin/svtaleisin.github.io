@@ -271,3 +271,13 @@ prose:
   #  - _config.yml
   #  - /_layouts
   #  - /_includes
+   metadata:
+    _posts:
+      - name: "category"
+        field:
+          element: "hidden"
+          value: "blog"
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "blog"
