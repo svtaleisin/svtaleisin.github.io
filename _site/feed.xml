@@ -2,26 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 <title type="text">Taleisin - Adventure Machine!</title>
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="https://svtaleisin.github.io/feed.xml" />
-<link rel="alternate" type="text/html" href="https://svtaleisin.github.io" />
-<updated>2018-01-23T19:21:51+13:00</updated>
-<id>https://svtaleisin.github.io/</id>
+<link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
+<link rel="alternate" type="text/html" href="http://localhost:4000" />
+<updated>2018-01-23T19:24:48+13:00</updated>
+<id>http://localhost:4000/</id>
 <author>
   <name></name>
-  <uri>https://svtaleisin.github.io/</uri>
+  <uri>http://localhost:4000/</uri>
   
 </author>
 
 
 <entry>
   <title type="html"><![CDATA[Creating Adventures for Others]]></title>
-  <link rel="alternate" type="text/html" href="https://svtaleisin.github.io/creating-adventures-for-others/" />
-  <id>https://svtaleisin.github.io/creating-adventures-for-others</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/creating-adventures-for-others/" />
+  <id>http://localhost:4000/creating-adventures-for-others</id>
   <published>2018-01-23T00:00:00+13:00</published>
   <updated>2018-01-23T00:00:00+13:00</updated>
   <author>
     <name></name>
-    <uri>https://svtaleisin.github.io</uri>
+    <uri>http://localhost:4000</uri>
     
   </author>
   <content type="html">
@@ -37,7 +37,7 @@ and I doubt many will, I will make good on my promise to take them sailing.&lt;/
 &lt;em&gt;Copyright Campbell/Seamans&lt;/em&gt;&lt;/p&gt;
 
 
-    &lt;p&gt;&lt;a href=&quot;https://svtaleisin.github.io/creating-adventures-for-others/&quot;&gt;Continue reading Creating Adventures for Others here.&lt;/a&gt; Originally published by  at &lt;a href=&quot;https://svtaleisin.github.io&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on January 23, 2018.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/creating-adventures-for-others/&quot;&gt;Continue reading Creating Adventures for Others here.&lt;/a&gt; Originally published by  at &lt;a href=&quot;http://localhost:4000&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on January 23, 2018.&lt;/p&gt;
 
   </content>
 </entry>
@@ -45,20 +45,20 @@ and I doubt many will, I will make good on my promise to take them sailing.&lt;/
 
 <entry>
   <title type="html"><![CDATA[Another Interview With Wooden Boat Dan]]></title>
-  <link rel="alternate" type="text/html" href="https://svtaleisin.github.io/another-interview-with-wooden-boat-dan/" />
-  <id>https://svtaleisin.github.io/another-interview-with-wooden-boat-dan</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/another-interview-with-wooden-boat-dan/" />
+  <id>http://localhost:4000/another-interview-with-wooden-boat-dan</id>
   <published>2018-01-04T17:10:11+13:00</published>
   <updated>2018-01-04T17:10:11+13:00</updated>
   <author>
     <name></name>
-    <uri>https://svtaleisin.github.io</uri>
+    <uri>http://localhost:4000</uri>
     
   </author>
   <content type="html">
     &lt;p&gt;It’s clearly a rainy day and we have nothing better to do…&lt;/p&gt;
 
 
-    &lt;p&gt;&lt;a href=&quot;https://svtaleisin.github.io/another-interview-with-wooden-boat-dan/&quot;&gt;Continue reading Another Interview With Wooden Boat Dan here.&lt;/a&gt; Originally published by  at &lt;a href=&quot;https://svtaleisin.github.io&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on January 04, 2018.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/another-interview-with-wooden-boat-dan/&quot;&gt;Continue reading Another Interview With Wooden Boat Dan here.&lt;/a&gt; Originally published by  at &lt;a href=&quot;http://localhost:4000&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on January 04, 2018.&lt;/p&gt;
 
   </content>
 </entry>
@@ -66,13 +66,13 @@ and I doubt many will, I will make good on my promise to take them sailing.&lt;/
 
 <entry>
   <title type="html"><![CDATA[Changes and a New Way to Keep Up With Us]]></title>
-  <link rel="alternate" type="text/html" href="https://svtaleisin.github.io/changes-and-a-new-way-to-keep-up-with-us/" />
-  <id>https://svtaleisin.github.io/changes-and-a-new-way-to-keep-up-with-us</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/changes-and-a-new-way-to-keep-up-with-us/" />
+  <id>http://localhost:4000/changes-and-a-new-way-to-keep-up-with-us</id>
   <published>2018-01-04T00:00:00+13:00</published>
   <updated>2018-01-04T00:00:00+13:00</updated>
   <author>
     <name></name>
-    <uri>https://svtaleisin.github.io</uri>
+    <uri>http://localhost:4000</uri>
     
   </author>
   <content type="html">
@@ -87,7 +87,7 @@ the last update in the archive section.&lt;/p&gt;
 things.&lt;/p&gt;
 
 
-    &lt;p&gt;&lt;a href=&quot;https://svtaleisin.github.io/changes-and-a-new-way-to-keep-up-with-us/&quot;&gt;Continue reading Changes and a New Way to Keep Up With Us here.&lt;/a&gt; Originally published by  at &lt;a href=&quot;https://svtaleisin.github.io&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on January 04, 2018.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/changes-and-a-new-way-to-keep-up-with-us/&quot;&gt;Continue reading Changes and a New Way to Keep Up With Us here.&lt;/a&gt; Originally published by  at &lt;a href=&quot;http://localhost:4000&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on January 04, 2018.&lt;/p&gt;
 
   </content>
 </entry>
@@ -95,13 +95,13 @@ things.&lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[In My Defence, I Was Left Unsupervised]]></title>
-  <link rel="alternate" type="text/html" href="https://svtaleisin.github.io/in-my-defence-i-was-left-unsupervised/" />
-  <id>https://svtaleisin.github.io/in-my-defence-i-was-left-unsupervised</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/in-my-defence-i-was-left-unsupervised/" />
+  <id>http://localhost:4000/in-my-defence-i-was-left-unsupervised</id>
   <published>2018-01-03T19:21:14+13:00</published>
   <updated>2018-01-03T19:21:14+13:00</updated>
   <author>
     <name></name>
-    <uri>https://svtaleisin.github.io</uri>
+    <uri>http://localhost:4000</uri>
     
   </author>
   <content type="html">
@@ -110,7 +110,7 @@ things.&lt;/p&gt;
 &lt;p&gt;As you can tell from the title, this is bound to be good!&lt;/p&gt;
 
 
-    &lt;p&gt;&lt;a href=&quot;https://svtaleisin.github.io/in-my-defence-i-was-left-unsupervised/&quot;&gt;Continue reading In My Defence, I Was Left Unsupervised here.&lt;/a&gt; Originally published by  at &lt;a href=&quot;https://svtaleisin.github.io&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on January 03, 2018.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/in-my-defence-i-was-left-unsupervised/&quot;&gt;Continue reading In My Defence, I Was Left Unsupervised here.&lt;/a&gt; Originally published by  at &lt;a href=&quot;http://localhost:4000&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on January 03, 2018.&lt;/p&gt;
 
   </content>
 </entry>
@@ -118,13 +118,13 @@ things.&lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[Reflections]]></title>
-  <link rel="alternate" type="text/html" href="https://svtaleisin.github.io/reflections/" />
-  <id>https://svtaleisin.github.io/reflections</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/reflections/" />
+  <id>http://localhost:4000/reflections</id>
   <published>2017-12-31T16:00:54+13:00</published>
   <updated>2017-12-31T16:00:54+13:00</updated>
   <author>
     <name></name>
-    <uri>https://svtaleisin.github.io</uri>
+    <uri>http://localhost:4000</uri>
     
   </author>
   <content type="html">
@@ -142,7 +142,7 @@ back to the year that’s has been.&lt;/p&gt;
 &lt;p&gt;&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/sdki/39399924801/&quot; title=&quot;Untitled&quot;&gt;&lt;img src=&quot;https://farm5.staticflickr.com/4681/39399924801_f6e293ff98_z.jpg&quot; width=&quot;640&quot; height=&quot;429&quot; alt=&quot;Untitled&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
 
 
-    &lt;p&gt;&lt;a href=&quot;https://svtaleisin.github.io/reflections/&quot;&gt;Continue reading Reflections here.&lt;/a&gt; Originally published by  at &lt;a href=&quot;https://svtaleisin.github.io&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on December 31, 2017.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/reflections/&quot;&gt;Continue reading Reflections here.&lt;/a&gt; Originally published by  at &lt;a href=&quot;http://localhost:4000&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on December 31, 2017.&lt;/p&gt;
 
   </content>
 </entry>
@@ -150,13 +150,13 @@ back to the year that’s has been.&lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[Email Issues]]></title>
-  <link rel="alternate" type="text/html" href="https://svtaleisin.github.io/email-issues/" />
-  <id>https://svtaleisin.github.io/email-issues</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/email-issues/" />
+  <id>http://localhost:4000/email-issues</id>
   <published>2017-05-07T06:49:50+12:00</published>
   <updated>2017-05-07T06:49:50+12:00</updated>
   <author>
     <name></name>
-    <uri>https://svtaleisin.github.io</uri>
+    <uri>http://localhost:4000</uri>
     
   </author>
   <content type="html">
@@ -171,7 +171,7 @@ through   at   the  bottom   of   the   email   to   previous  post   or   click
 &lt;hr /&gt;
 
 
-    &lt;p&gt;&lt;a href=&quot;https://svtaleisin.github.io/email-issues/&quot;&gt;Continue reading Email Issues here.&lt;/a&gt; Originally published by  at &lt;a href=&quot;https://svtaleisin.github.io&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on May 07, 2017.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/email-issues/&quot;&gt;Continue reading Email Issues here.&lt;/a&gt; Originally published by  at &lt;a href=&quot;http://localhost:4000&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on May 07, 2017.&lt;/p&gt;
 
   </content>
 </entry>
@@ -179,13 +179,13 @@ through   at   the  bottom   of   the   email   to   previous  post   or   click
 
 <entry>
   <title type="html"><![CDATA[River Adventures]]></title>
-  <link rel="alternate" type="text/html" href="https://svtaleisin.github.io/river-adventures/" />
-  <id>https://svtaleisin.github.io/river-adventures</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/river-adventures/" />
+  <id>http://localhost:4000/river-adventures</id>
   <published>2017-05-06T16:56:17+12:00</published>
   <updated>2017-05-06T16:56:17+12:00</updated>
   <author>
     <name></name>
-    <uri>https://svtaleisin.github.io</uri>
+    <uri>http://localhost:4000</uri>
     
   </author>
   <content type="html">
@@ -207,7 +207,7 @@ cruise up the Mahurangi river.&lt;/p&gt;
 &lt;p&gt;&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/sdki/32739029450/in/dateposted-public/&quot; title=&quot;Annie Hill&amp;#x27;s fantail. We met Bryan and Linda (the current owners) this weekend we enjoyed a nice visit and beer with the aboard taleisin this afternoon.&quot;&gt;&lt;img src=&quot;https://c1.staticflickr.com/3/2883/32739029450_1bfefb79c9_c.jpg&quot; width=&quot;534&quot; height=&quot;800&quot; alt=&quot;Annie Hill&amp;#x27;s fantail. We met Bryan and Linda (the current owners) this weekend we enjoyed a nice visit and beer with the aboard taleisin this afternoon.&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
 
 
-    &lt;p&gt;&lt;a href=&quot;https://svtaleisin.github.io/river-adventures/&quot;&gt;Continue reading River Adventures here.&lt;/a&gt; Originally published by  at &lt;a href=&quot;https://svtaleisin.github.io&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on May 06, 2017.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/river-adventures/&quot;&gt;Continue reading River Adventures here.&lt;/a&gt; Originally published by  at &lt;a href=&quot;http://localhost:4000&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on May 06, 2017.&lt;/p&gt;
 
   </content>
 </entry>
@@ -215,13 +215,13 @@ cruise up the Mahurangi river.&lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[Life Aboard Taleisin]]></title>
-  <link rel="alternate" type="text/html" href="https://svtaleisin.github.io/life-aboard-taleisin/" />
-  <id>https://svtaleisin.github.io/life-aboard-taleisin</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/life-aboard-taleisin/" />
+  <id>http://localhost:4000/life-aboard-taleisin</id>
   <published>2017-02-16T10:16:07+13:00</published>
   <updated>2017-02-16T10:16:07+13:00</updated>
   <author>
     <name></name>
-    <uri>https://svtaleisin.github.io</uri>
+    <uri>http://localhost:4000</uri>
     
   </author>
   <content type="html">
@@ -239,7 +239,7 @@ store. This was challenging as it  forced us to go through absolutely everything
 we own to ensure we’re not paying to store junk.&lt;/p&gt;
 
 
-    &lt;p&gt;&lt;a href=&quot;https://svtaleisin.github.io/life-aboard-taleisin/&quot;&gt;Continue reading Life Aboard Taleisin here.&lt;/a&gt; Originally published by  at &lt;a href=&quot;https://svtaleisin.github.io&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on February 16, 2017.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/life-aboard-taleisin/&quot;&gt;Continue reading Life Aboard Taleisin here.&lt;/a&gt; Originally published by  at &lt;a href=&quot;http://localhost:4000&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on February 16, 2017.&lt;/p&gt;
 
   </content>
 </entry>
@@ -247,13 +247,13 @@ we own to ensure we’re not paying to store junk.&lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[What Is It With Power Boats?]]></title>
-  <link rel="alternate" type="text/html" href="https://svtaleisin.github.io/what-is-it-with-power-boats/" />
-  <id>https://svtaleisin.github.io/what-is-it-with-power-boats</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/what-is-it-with-power-boats/" />
+  <id>http://localhost:4000/what-is-it-with-power-boats</id>
   <published>2017-01-18T19:31:07+13:00</published>
   <updated>2017-01-18T19:31:07+13:00</updated>
   <author>
     <name></name>
-    <uri>https://svtaleisin.github.io</uri>
+    <uri>http://localhost:4000</uri>
     
   </author>
   <content type="html">
@@ -273,7 +273,7 @@ Since we’re still  learning we don’t like  to sail in conditions  that is be
 our ability and comfort levels.&lt;/p&gt;
 
 
-    &lt;p&gt;&lt;a href=&quot;https://svtaleisin.github.io/what-is-it-with-power-boats/&quot;&gt;Continue reading What Is It With Power Boats? here.&lt;/a&gt; Originally published by  at &lt;a href=&quot;https://svtaleisin.github.io&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on January 18, 2017.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/what-is-it-with-power-boats/&quot;&gt;Continue reading What Is It With Power Boats? here.&lt;/a&gt; Originally published by  at &lt;a href=&quot;http://localhost:4000&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on January 18, 2017.&lt;/p&gt;
 
   </content>
 </entry>
@@ -281,13 +281,13 @@ our ability and comfort levels.&lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[Never Miss Another Adventure]]></title>
-  <link rel="alternate" type="text/html" href="https://svtaleisin.github.io/never-miss-another-adventure/" />
-  <id>https://svtaleisin.github.io/never-miss-another-adventure</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/never-miss-another-adventure/" />
+  <id>http://localhost:4000/never-miss-another-adventure</id>
   <published>2017-01-18T17:44:33+13:00</published>
   <updated>2017-01-18T17:44:33+13:00</updated>
   <author>
     <name></name>
-    <uri>https://svtaleisin.github.io</uri>
+    <uri>http://localhost:4000</uri>
     
   </author>
   <content type="html">
@@ -304,7 +304,7 @@ something together to make it happen.&lt;/p&gt;
 your email address in the box below and subscribe to our mailing list.&lt;/p&gt;
 
 
-    &lt;p&gt;&lt;a href=&quot;https://svtaleisin.github.io/never-miss-another-adventure/&quot;&gt;Continue reading Never Miss Another Adventure here.&lt;/a&gt; Originally published by  at &lt;a href=&quot;https://svtaleisin.github.io&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on January 18, 2017.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/never-miss-another-adventure/&quot;&gt;Continue reading Never Miss Another Adventure here.&lt;/a&gt; Originally published by  at &lt;a href=&quot;http://localhost:4000&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on January 18, 2017.&lt;/p&gt;
 
   </content>
 </entry>
@@ -312,13 +312,13 @@ your email address in the box below and subscribe to our mailing list.&lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[Small Adventures]]></title>
-  <link rel="alternate" type="text/html" href="https://svtaleisin.github.io/small-adventures/" />
-  <id>https://svtaleisin.github.io/small-adventures</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/small-adventures/" />
+  <id>http://localhost:4000/small-adventures</id>
   <published>2017-01-12T18:37:26+13:00</published>
   <updated>2017-01-12T18:37:26+13:00</updated>
   <author>
     <name></name>
-    <uri>https://svtaleisin.github.io</uri>
+    <uri>http://localhost:4000</uri>
     
   </author>
   <content type="html">
@@ -340,7 +340,7 @@ feels like  time has moved on  and this little island  is stuck in the  past. We
 absolutely love this place!&lt;/p&gt;
 
 
-    &lt;p&gt;&lt;a href=&quot;https://svtaleisin.github.io/small-adventures/&quot;&gt;Continue reading Small Adventures here.&lt;/a&gt; Originally published by  at &lt;a href=&quot;https://svtaleisin.github.io&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on January 12, 2017.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/small-adventures/&quot;&gt;Continue reading Small Adventures here.&lt;/a&gt; Originally published by  at &lt;a href=&quot;http://localhost:4000&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on January 12, 2017.&lt;/p&gt;
 
   </content>
 </entry>
@@ -348,13 +348,13 @@ absolutely love this place!&lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[Rookie Mistake]]></title>
-  <link rel="alternate" type="text/html" href="https://svtaleisin.github.io/rookie-mistake/" />
-  <id>https://svtaleisin.github.io/rookie-mistake</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/rookie-mistake/" />
+  <id>http://localhost:4000/rookie-mistake</id>
   <published>2017-01-08T18:33:23+13:00</published>
   <updated>2017-01-08T18:33:23+13:00</updated>
   <author>
     <name></name>
-    <uri>https://svtaleisin.github.io</uri>
+    <uri>http://localhost:4000</uri>
     
   </author>
   <content type="html">
@@ -375,7 +375,7 @@ this way, rather than  the alternative. Time will tell if this gets easier or
 more painful…&lt;/p&gt;
 
 
-    &lt;p&gt;&lt;a href=&quot;https://svtaleisin.github.io/rookie-mistake/&quot;&gt;Continue reading Rookie Mistake here.&lt;/a&gt; Originally published by  at &lt;a href=&quot;https://svtaleisin.github.io&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on January 08, 2017.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/rookie-mistake/&quot;&gt;Continue reading Rookie Mistake here.&lt;/a&gt; Originally published by  at &lt;a href=&quot;http://localhost:4000&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on January 08, 2017.&lt;/p&gt;
 
   </content>
 </entry>
@@ -383,13 +383,13 @@ more painful…&lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[Off Grid]]></title>
-  <link rel="alternate" type="text/html" href="https://svtaleisin.github.io/off-grid/" />
-  <id>https://svtaleisin.github.io/off-grid</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/off-grid/" />
+  <id>http://localhost:4000/off-grid</id>
   <published>2017-01-06T20:12:58+13:00</published>
   <updated>2017-01-06T20:12:58+13:00</updated>
   <author>
     <name></name>
-    <uri>https://svtaleisin.github.io</uri>
+    <uri>http://localhost:4000</uri>
     
   </author>
   <content type="html">
@@ -405,7 +405,7 @@ done.&lt;/p&gt;
 &lt;p&gt;&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/sdki/32135639085/&quot; title=&quot;Off grid&quot;&gt;&lt;img src=&quot;https://c6.staticflickr.com/1/658/32135639085_49dd06f5bd_c.jpg&quot; width=&quot;800&quot; height=&quot;600&quot; alt=&quot;Off grid&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
 
 
-    &lt;p&gt;&lt;a href=&quot;https://svtaleisin.github.io/off-grid/&quot;&gt;Continue reading Off Grid here.&lt;/a&gt; Originally published by  at &lt;a href=&quot;https://svtaleisin.github.io&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on January 06, 2017.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/off-grid/&quot;&gt;Continue reading Off Grid here.&lt;/a&gt; Originally published by  at &lt;a href=&quot;http://localhost:4000&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on January 06, 2017.&lt;/p&gt;
 
   </content>
 </entry>
@@ -413,13 +413,13 @@ done.&lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[Back on the Grid]]></title>
-  <link rel="alternate" type="text/html" href="https://svtaleisin.github.io/back-on-the-grid/" />
-  <id>https://svtaleisin.github.io/back-on-the-grid</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/back-on-the-grid/" />
+  <id>http://localhost:4000/back-on-the-grid</id>
   <published>2017-01-04T07:41:34+13:00</published>
   <updated>2017-01-04T07:41:34+13:00</updated>
   <author>
     <name></name>
-    <uri>https://svtaleisin.github.io</uri>
+    <uri>http://localhost:4000</uri>
     
   </author>
   <content type="html">
@@ -435,7 +435,7 @@ We navigated our way through all the moored boats and slowly made our way to the
 jetty.&lt;/p&gt;
 
 
-    &lt;p&gt;&lt;a href=&quot;https://svtaleisin.github.io/back-on-the-grid/&quot;&gt;Continue reading Back on the Grid here.&lt;/a&gt; Originally published by  at &lt;a href=&quot;https://svtaleisin.github.io&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on January 04, 2017.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/back-on-the-grid/&quot;&gt;Continue reading Back on the Grid here.&lt;/a&gt; Originally published by  at &lt;a href=&quot;http://localhost:4000&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on January 04, 2017.&lt;/p&gt;
 
   </content>
 </entry>
@@ -443,13 +443,13 @@ jetty.&lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[Baking Bread]]></title>
-  <link rel="alternate" type="text/html" href="https://svtaleisin.github.io/baking-bread/" />
-  <id>https://svtaleisin.github.io/baking-bread</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/baking-bread/" />
+  <id>http://localhost:4000/baking-bread</id>
   <published>2017-01-02T17:45:19+13:00</published>
   <updated>2017-01-02T17:45:19+13:00</updated>
   <author>
     <name></name>
-    <uri>https://svtaleisin.github.io</uri>
+    <uri>http://localhost:4000</uri>
     
   </author>
   <content type="html">
@@ -462,7 +462,7 @@ of salt will be the job done. Use a bit of elbow grease and it’s not long befo
 you have something that resembles dough.&lt;/p&gt;
 
 
-    &lt;p&gt;&lt;a href=&quot;https://svtaleisin.github.io/baking-bread/&quot;&gt;Continue reading Baking Bread here.&lt;/a&gt; Originally published by  at &lt;a href=&quot;https://svtaleisin.github.io&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on January 02, 2017.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/baking-bread/&quot;&gt;Continue reading Baking Bread here.&lt;/a&gt; Originally published by  at &lt;a href=&quot;http://localhost:4000&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on January 02, 2017.&lt;/p&gt;
 
   </content>
 </entry>
@@ -470,13 +470,13 @@ you have something that resembles dough.&lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[Interview - Hooked on Wooden Boats]]></title>
-  <link rel="alternate" type="text/html" href="https://svtaleisin.github.io/interview-hooked-on-wooden-boats/" />
-  <id>https://svtaleisin.github.io/interview-hooked-on-wooden-boats</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/interview-hooked-on-wooden-boats/" />
+  <id>http://localhost:4000/interview-hooked-on-wooden-boats</id>
   <published>2017-01-01T10:09:36+13:00</published>
   <updated>2017-01-01T10:09:36+13:00</updated>
   <author>
     <name></name>
-    <uri>https://svtaleisin.github.io</uri>
+    <uri>http://localhost:4000</uri>
     
   </author>
   <content type="html">
@@ -495,7 +495,7 @@ again I’ll  be sure to take  some pictures. Thank  you to all the  residents f
 making our time here very pleasurable!&lt;/p&gt;
 
 
-    &lt;p&gt;&lt;a href=&quot;https://svtaleisin.github.io/interview-hooked-on-wooden-boats/&quot;&gt;Continue reading Interview - Hooked on Wooden Boats here.&lt;/a&gt; Originally published by  at &lt;a href=&quot;https://svtaleisin.github.io&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on January 01, 2017.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/interview-hooked-on-wooden-boats/&quot;&gt;Continue reading Interview - Hooked on Wooden Boats here.&lt;/a&gt; Originally published by  at &lt;a href=&quot;http://localhost:4000&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on January 01, 2017.&lt;/p&gt;
 
   </content>
 </entry>
@@ -503,13 +503,13 @@ making our time here very pleasurable!&lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[Dinner Is Served]]></title>
-  <link rel="alternate" type="text/html" href="https://svtaleisin.github.io/dinner-is-served/" />
-  <id>https://svtaleisin.github.io/dinner-is-served</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/dinner-is-served/" />
+  <id>http://localhost:4000/dinner-is-served</id>
   <published>2016-12-30T20:29:40+13:00</published>
   <updated>2016-12-30T20:29:40+13:00</updated>
   <author>
     <name></name>
-    <uri>https://svtaleisin.github.io</uri>
+    <uri>http://localhost:4000</uri>
     
   </author>
   <content type="html">
@@ -530,7 +530,7 @@ you’re over  for dinner at  the Pardey’s.  The company is  good and the  foo
 always excellent!&lt;/p&gt;
 
 
-    &lt;p&gt;&lt;a href=&quot;https://svtaleisin.github.io/dinner-is-served/&quot;&gt;Continue reading Dinner Is Served here.&lt;/a&gt; Originally published by  at &lt;a href=&quot;https://svtaleisin.github.io&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on December 30, 2016.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/dinner-is-served/&quot;&gt;Continue reading Dinner Is Served here.&lt;/a&gt; Originally published by  at &lt;a href=&quot;http://localhost:4000&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on December 30, 2016.&lt;/p&gt;
 
   </content>
 </entry>
@@ -538,13 +538,13 @@ always excellent!&lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[Hanging Out in North Cove]]></title>
-  <link rel="alternate" type="text/html" href="https://svtaleisin.github.io/hanging-out-in-north-cove/" />
-  <id>https://svtaleisin.github.io/hanging-out-in-north-cove</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/hanging-out-in-north-cove/" />
+  <id>http://localhost:4000/hanging-out-in-north-cove</id>
   <published>2016-12-28T19:10:05+13:00</published>
   <updated>2016-12-28T19:10:05+13:00</updated>
   <author>
     <name></name>
-    <uri>https://svtaleisin.github.io</uri>
+    <uri>http://localhost:4000</uri>
     
   </author>
   <content type="html">
@@ -566,7 +566,7 @@ mind helping us move. She was a real sport and jumped to it.&lt;/p&gt;
 &lt;p&gt;&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/sdki/31120073253/&quot; title=&quot;Hanging out in north cove&quot;&gt;&lt;img src=&quot;https://c6.staticflickr.com/1/452/31120073253_585b6795bd_c.jpg&quot; width=&quot;800&quot; height=&quot;600&quot; alt=&quot;Hanging out in north cove&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
 
 
-    &lt;p&gt;&lt;a href=&quot;https://svtaleisin.github.io/hanging-out-in-north-cove/&quot;&gt;Continue reading Hanging Out in North Cove here.&lt;/a&gt; Originally published by  at &lt;a href=&quot;https://svtaleisin.github.io&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on December 28, 2016.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/hanging-out-in-north-cove/&quot;&gt;Continue reading Hanging Out in North Cove here.&lt;/a&gt; Originally published by  at &lt;a href=&quot;http://localhost:4000&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on December 28, 2016.&lt;/p&gt;
 
   </content>
 </entry>
@@ -574,13 +574,13 @@ mind helping us move. She was a real sport and jumped to it.&lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[Return to North Cove]]></title>
-  <link rel="alternate" type="text/html" href="https://svtaleisin.github.io/return-to-north-cove/" />
-  <id>https://svtaleisin.github.io/return-to-north-cove</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/return-to-north-cove/" />
+  <id>http://localhost:4000/return-to-north-cove</id>
   <published>2016-12-27T19:27:34+13:00</published>
   <updated>2016-12-27T19:27:34+13:00</updated>
   <author>
     <name></name>
-    <uri>https://svtaleisin.github.io</uri>
+    <uri>http://localhost:4000</uri>
     
   </author>
   <content type="html">
@@ -600,7 +600,7 @@ stays’l. We were off without a hitch! I hoisted the main and the jib while Ann
 slowly sailed us out of the anchorage. It was a nice start to the day.&lt;/p&gt;
 
 
-    &lt;p&gt;&lt;a href=&quot;https://svtaleisin.github.io/return-to-north-cove/&quot;&gt;Continue reading Return to North Cove here.&lt;/a&gt; Originally published by  at &lt;a href=&quot;https://svtaleisin.github.io&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on December 27, 2016.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/return-to-north-cove/&quot;&gt;Continue reading Return to North Cove here.&lt;/a&gt; Originally published by  at &lt;a href=&quot;http://localhost:4000&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on December 27, 2016.&lt;/p&gt;
 
   </content>
 </entry>
@@ -608,13 +608,13 @@ slowly sailed us out of the anchorage. It was a nice start to the day.&lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[Escape]]></title>
-  <link rel="alternate" type="text/html" href="https://svtaleisin.github.io/escape/" />
-  <id>https://svtaleisin.github.io/escape</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/escape/" />
+  <id>http://localhost:4000/escape</id>
   <published>2016-12-26T17:10:15+13:00</published>
   <updated>2016-12-26T17:10:15+13:00</updated>
   <author>
     <name></name>
-    <uri>https://svtaleisin.github.io</uri>
+    <uri>http://localhost:4000</uri>
     
   </author>
   <content type="html">
@@ -658,7 +658,7 @@ about 4.5 meters of water and so far it would seem like a calm quite anchorage!&
 &lt;p&gt;&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/sdki/31763620081/&quot; title=&quot;Escape&quot;&gt;&lt;img src=&quot;https://c2.staticflickr.com/1/339/31763620081_3842fd3f3c_c.jpg&quot; width=&quot;800&quot; height=&quot;600&quot; alt=&quot;Escape&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
 
 
-    &lt;p&gt;&lt;a href=&quot;https://svtaleisin.github.io/escape/&quot;&gt;Continue reading Escape here.&lt;/a&gt; Originally published by  at &lt;a href=&quot;https://svtaleisin.github.io&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on December 26, 2016.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/escape/&quot;&gt;Continue reading Escape here.&lt;/a&gt; Originally published by  at &lt;a href=&quot;http://localhost:4000&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on December 26, 2016.&lt;/p&gt;
 
   </content>
 </entry>
