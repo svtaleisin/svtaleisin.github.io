@@ -259,25 +259,3 @@ defaults:
       related: true
       
       
-      
-# Prose configs
-prose:
-  #rooturl: '_posts'
-  siteurl: 'https://svtaleisin.github.io'
-  #relativeLinks: 'http://prose.github.io/starter/links.jsonp'
-  media: 'media'
-  #ignore:
-  #  - index.md
-  #  - _config.yml
-  #  - /_layouts
-  #  - /_includes
-   metadata:
-    _posts:
-      - name: "category"
-        field:
-          element: "hidden"
-          value: "blog"
-      - name: "layout"
-        field:
-          element: "hidden"
-          value: "blog"
