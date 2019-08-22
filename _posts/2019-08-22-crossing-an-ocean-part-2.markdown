@@ -2,7 +2,8 @@
 title: Crossing an ocean - part 2
 date: 2019-08-22T14:45:35+13:00
 ---
-This is part two of our ocean passage, see part one here.
+This is part two of our ocean passage, see part one
+[here](/the-post-most-of-you-have-been-waiting-for/).
 
 Luckily Annie is smart and suggested that I dig out some clamps as she’s certain
 there’s two small G clamps in the tool tray under the work bench. I dug the
